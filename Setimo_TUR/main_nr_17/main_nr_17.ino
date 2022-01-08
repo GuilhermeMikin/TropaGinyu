@@ -25,16 +25,15 @@
 ////////////////
 
 //Sensores//
-int sensor_0 = A0;
+int sensor_0 = A0; 
  
-int sensor_1 = A1;
+int sensor_1 = A1; 
 
+int sensor_2 = A2; 
 
-int sensor_2 = A2;
+int sensor_3 = A3; 
 
-int sensor_3 = A3;
-
-int sensor_4 = A4;
+int sensor_4 = A4; 
 
 uint8_t array_sensores = 0;
 
